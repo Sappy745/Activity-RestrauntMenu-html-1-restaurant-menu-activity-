@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <!-- Remember to link to your CSS file! -->
+    <img src="https://github.com/HackerUSA-CE/HTML-Restaurant-Menu/blob/master/assets/images/banner.png?raw=true" alt="Banner Image">
 </head>
 <body>
     <!-- CONTACT PAGE -->
